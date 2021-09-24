@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @letusmelt
 - 👀 I’m interested in music programming and DTM.
 - 🌱 I’m currently learning data analysis with Python and R & web front-end programming.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects on data analysis.
 - 📫 How to reach me: lindawang1209@gmail.com
 
 <!---
