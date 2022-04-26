@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @letusmelt
-- 👀 I’m interested in music programming and DTM.
-- 🌱 I’m currently learning data analysis with SAS, and I have experience in programming with Python and R.
-- 💞️ For personal interest I'm learning programming with JUCE. 
-- 📫 How to reach me: lindawang1209@gmail.com
+I use logic pro x to write music.
