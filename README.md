@@ -1,4 +1,4 @@
-English language Literature BA & Computer Science MS/
+English Literature BA & Computer Science MS/
 Programmer @Pfizer -2021/
 Teaching Software Programming -now/
 logic pro X is my favouriate DAW.
